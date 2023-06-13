@@ -10,6 +10,7 @@
 You can reach me through the following channels:
 - Email: leron@oregonstate.edu
 - LinkedIn: https://www.linkedin.com/in/ronnald-le
+- Portfolio: https://leronportfolio.github.io
 
 Feel free to connect with me if you have any data analytics projects, collaboration opportunities, or if you simply want to discuss data analysis and its applications!
 
