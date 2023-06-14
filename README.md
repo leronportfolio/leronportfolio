@@ -2,7 +2,7 @@
 
 👀 I’m interested in data analytics, data visualization, and deriving insights from complex datasets. I enjoy exploring data, uncovering patterns, and using analytics tools to extract meaningful information.
 
-🌱 I’m currently learning advanced statistical analysis techniques and machine learning algorithms to enhance my data analytics skills. I'm also familiarizing myself with popular data analytics tools such as Python, R, SQL, and Tableau.
+🌱 I’m currently learning advanced statistical analysis techniques and machine learning algorithms to enhance my data analytics skills. I'm also familiarizing myself with popular data analytics tools such as Python, R, SQL, and Machine Learning Applications.
 
 💼 I have experience working with data in various domains, including marketing analytics, customer segmentation, and sales forecasting. I'm skilled in data cleaning, preprocessing, exploratory data analysis, and creating visualizations to communicate findings effectively.
 
